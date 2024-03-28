@@ -23,6 +23,8 @@ feature_text = pickle.load(open('datasets/feature_text.pkl','rb'))
 #
 # st.plotly_chart(fig,use_container_width=True)
 
+st.set_option('deprecation.showPyplotGlobalUse', False)
+
 st.header('Features Wordcloud')
 
 wordcloud = WordCloud(width = 800, height = 800,
