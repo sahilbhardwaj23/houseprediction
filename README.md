@@ -28,4 +28,27 @@ The House Price Prediction and Recommendation System is a comprehensive tool des
 
 Overall, the House Price Prediction and Recommendation System serves as a valuable tool for individuals seeking to buy or sell a house, providing them with the information and guidance needed to make informed decisions in the real estate market.
 
+
+## Data Cleaning 
+
+The data cleaning phase of the project focuses on preparing the raw datasets for further analysis and modeling. This involves several key steps:
+
+1. **Loading Data**: The process begins with loading the raw CSV files containing data on flats and houses into Pandas DataFrames.
+
+2. **Handling Missing Values**: Missing values within the datasets are identified and addressed using appropriate techniques such as imputation or removal of rows/columns.
+
+3. **Data Transformation**: Data transformation techniques are applied to ensure consistency and accuracy. This includes converting data types, standardizing units, and encoding categorical variables.
+
+4. **Removing Outliers**: Outliers, if present, are detected and removed to prevent them from adversely affecting the analysis or modeling process.
+
+5. **Feature Engineering**: New features may be derived from existing ones to enhance the predictive power of the model. This involves creating interaction terms, polynomial features, or aggregating existing features.
+
+6. **Data Integration**: Once the individual datasets are cleaned, they are merged to create a unified dataset containing details of both flats and houses. This merged dataset serves as the input for further analysis and modeling.
+
+The data cleaning process ensures that the datasets are consistent, accurate, and ready for analysis, laying the foundation for the subsequent stages of the project.
+
+--- 
+
+This overview highlights the main steps involved in cleaning the data and sets the stage for understanding the importance of this phase in the overall project workflow. Let me know if you need further details or adjustments!
+
  
