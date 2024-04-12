@@ -48,7 +48,27 @@ The data cleaning phase of the project focuses on preparing the raw datasets for
 The data cleaning process ensures that the datasets are consistent, accurate, and ready for analysis, laying the foundation for the subsequent stages of the project.
 
 --- 
+Certainly! Here's a brief overview of the Exploratory Data Analysis (EDA) phase:
 
-This overview highlights the main steps involved in cleaning the data and sets the stage for understanding the importance of this phase in the overall project workflow. Let me know if you need further details or adjustments!
+---
+
+## Exploratory Data Analysis 
+
+The Exploratory Data Analysis (EDA) phase of the project involves a detailed examination of the cleaned dataset to gain insights into the underlying patterns and relationships between variables. This phase encompasses the following key steps:
+
+1. **Detailed Analysis of Each Column**: Each column of the dataset is thoroughly examined to understand its distribution, central tendency, variability, and potential outliers. Descriptive statistics and visualizations such as histograms, box plots, and scatter plots are utilized to summarize and visualize the data.
+
+2. **Interpretation of Important Information**: Important information extracted from the dataset during the analysis phase is interpreted to identify significant trends, patterns, and correlations. This includes identifying key features that have a strong influence on house prices or are indicative of certain characteristics.
+
+3. **Feature Selection for Model Training**: Based on the insights gained from the analysis, a subset of relevant features is selected for model training. Features that exhibit a strong correlation with the target variable (house prices) or demonstrate significant predictive power are prioritized for inclusion in the model.
+
+4. **Conversion of Numerical Columns to Categorical**: Some numerical columns may be converted to categorical variables if they represent discrete categories or ordinal values. This conversion facilitates the incorporation of these variables into the modeling process and may improve the interpretability of the model.
+
+5. **In-depth Analysis**: In addition to examining individual variables, the EDA phase involves exploring relationships between multiple variables through bivariate and multivariate analysis. Correlation matrices, pair plots, and heatmaps are used to visualize correlations and dependencies between variables.
+
+The EDA phase plays a crucial role in uncovering insights from the data and guiding subsequent modeling decisions. By thoroughly analyzing the dataset and interpreting key findings, we can develop a deeper understanding of the factors influencing house prices and build more effective predictive models.
+
+---
+
 
  
