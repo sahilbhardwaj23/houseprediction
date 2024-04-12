@@ -45,4 +45,4 @@ The recommender system allows users to search for localities based on location a
 
 ---
 
-This structured overview highlights the key components and functionalities of your project, ensuring clarity and coherence. Let me know if you need further refinement or assistance!
+
